@@ -1,2 +1,0 @@
-# DataStructures
-Списки и дерево
